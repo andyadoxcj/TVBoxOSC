@@ -124,7 +124,7 @@ public class ApiConfig {
                         } catch (Throwable th) {
                             th.printStackTrace();
                             callback.error("解析配置失败");
-                        }
+                        }https://mysxcj.oss-cn-hangzhou.aliyuncs.com/68.json
                     }
 
                     @Override
